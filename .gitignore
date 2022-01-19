@@ -16,7 +16,7 @@
 *.sublime-project
 .DS_Store
 .idea
-
+.vscode
 .jshintrc
 
 # Build results
